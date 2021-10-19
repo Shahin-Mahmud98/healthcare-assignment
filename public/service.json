@@ -1,0 +1,33 @@
+[
+    {
+        "id":"1",
+        "name": "Orthopedic & Trauma Center", "description": "Dedicated to offer comprehensive treatment for a wide range of patients who need surgical or conservative treatments for the nasal passages, sinuses, ears, mouth, pharynx, throat, and head-neck regions, backed by experienced ENT Consultants, doctors, nurses, and technologists. The department deals with all ENT related problems and emergency situations to provide full coverage of services.", "img": "https://i.ibb.co/D8GvzQV/748.jpg"
+
+    },
+    {
+        "id":"2",
+        "name": "Nephrology & Medicine", "description": "Dedicated to provide antenatal care for pregnant ladies with our gynecology and painless delivery team. All the facilities for painless normal vaginal delivery are available 24/7 to make sure the patients the best service.", "img": "https://i.ibb.co/1TVqHfk/5023286.jpg"
+
+    },
+    {
+        "id":"3",
+        "name": "Gastroliver Center", "description": "Dedicated to offer comprehensive treatment for a wide range of patients who need surgical or conservative treatments for the nasal passages, sinuses, ears, mouth, pharynx, throat, and head-neck regions, backed by experienced ENT Consultants, doctors, nurses, and technologists. The department deals with all ENT related problems and emergency situations to provide full coverage of services.", "img": "https://i.ibb.co/JqS8Zhj/beautiful-smart-asian-doctor-patient-discussing-explaining-something-with-clipboard.jpg"
+
+    },
+    {
+        "id":"4",
+        "name": "Plastic Surgery", "description": "Our post graduate qualified plastic surgeons utilize the latest techniques and provide a wide variety of aesthetic and reconstructive procedures for both men and women with safe, successful outcomes. The department offers both surgical and non-surgical services to help patients look and feel their best. The diverse works of the Plastic, Reconstructive & Cosmetic Surgery Department is unique to Impulse Hospital Dhaka.", "img": "https://i.ibb.co/cQLr3g7/doctor-examining-female-patients-face-cosmetic-treatment.jpg"
+
+    },
+    {
+        "id":"5",
+        "name": "ENT-Thyroid-Laser Center", "description": "One of the leading providers of services for patients with kidney diseases, including the diagnosis and management of all forms of kidney diseases, as well as dialysis with the help of our expert Nephrology Consultants, junior doctors, nurses, and technicians who are highly experienced in-patient care and are treating hundreds of patients with kidney disorders.", "img": "https://i.ibb.co/312NwzX/mature-doctor-checking-thyroid-smiling-woman.jpg"
+
+    },
+    {
+        "id":"6",
+        "name": "Painless Normal Delivery", "description": "Our Orthopedics & Trauma Centre is enriched to handle our orthopedic patients to a new standard. By performing numerous successful critical surgeries in the field of orthopedics & spine surgery and through the tireless efforts of our team of physicians and nurses we have already gained the trust of the people.", "img": "https://i.ibb.co/MfzzccF/surgeons-performing-operation-operation-room.jpg"
+
+    }
+
+]
