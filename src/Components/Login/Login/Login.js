@@ -3,10 +3,10 @@ import useAuth from '../../../Hooks/useAuth';
 
 
 const Login = () => {
-    const {signInUsingGoogle}=useAuth();
+    const { signInUsingGoogle } = useAuth();
     return (
         <div id="login">
-            <h2>Plese Login</h2>
+            <h2>Please Login</h2>
             <button onClick={signInUsingGoogle} className="btn btn-warning">Google Sign In</button>
         </div>
     );
